@@ -1,1 +1,2 @@
-docker build -t stigtsp/loki-render-node:2.79a .
+#!/bin/sh
+docker build -t stigtsp/loki-render-node .
